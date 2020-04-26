@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29025.244
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mjolnir And Stormbreaker", "Mjolnir And Stormbreaker.csproj", "{604B82FD-175F-43FF-A1E0-421267F0085F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{604B82FD-175F-43FF-A1E0-421267F0085F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{604B82FD-175F-43FF-A1E0-421267F0085F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{604B82FD-175F-43FF-A1E0-421267F0085F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{604B82FD-175F-43FF-A1E0-421267F0085F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {58252BBB-D9EF-4FA7-91D0-CBB59FDA18F6}
+	EndGlobalSection
+EndGlobal
